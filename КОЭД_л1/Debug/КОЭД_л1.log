@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kasym\source\repos\коэд_л1\коэд_л1\source.cpp(4): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  КОЭД_л1.vcxproj -> c:\Users\kasym\source\repos\КОЭД_л1\Debug\КОЭД_л1.exe
